@@ -1,7 +1,7 @@
 # website-frontend
-It is a code practicing HTML and CSS, this one involve diferent topics with advanced CSS. It's pretty cool. 
+It is a code practicing HTML and CSS, this one involve different topics with advanced CSS. It's pretty cool. 
 
-I want to share you some HTML and CSS for example including topics like:
+I want to share with you some HTML and CSS for example including topics like:
 
 1. Transofrming
 2. flexbox. 
